@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+pymysql
+boto3
+botocore
+python-multipart
+starlette
+sqlalchemy
+bcrypt
+passlib[bcrypt]
+itsdangerous
+pandas
